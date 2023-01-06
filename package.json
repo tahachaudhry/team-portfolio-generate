@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Taha C",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^24.9.0"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    }
+}
